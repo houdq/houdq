@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @houdq
-- 👀 I’m interested in java and 微服务！
+- 👀 I’m interested in java and Soft service ！
 <!-- - 🌱 I’m currently learning ... -->
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me ...
