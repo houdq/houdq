@@ -10,7 +10,7 @@ I'm a Java Developer based in Beijing, passionate about building robust backend 
 
 🧠 Software Architecture: Clean Code, DDD, System Design
 
-📝 Writing & Sharing: I regularly write about tech on [[你的博客链接，如：blog.danielhou.com](https://github.com/houdq/)] – feel free to check it out!
+📝 Writing & Sharing: I regularly write about tech on (https://github.com/houdq/)– feel free to check it out!
 
 🌱 Currently Learning
 
